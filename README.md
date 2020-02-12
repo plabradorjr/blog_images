@@ -1,1 +1,3 @@
-# blog_images
+# Blog Images
+
+This is where I link all my blog images.
